@@ -1,1 +1,10 @@
-theme: minimal-mistakes-jekyll
+# Site Settings
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale                   : "en-US" #"en-US"  "zh-CN"
+title                    : "Yu Zhang's Homepage"
+title_separator          : "-"
+name                     : "Yu Zhang"
+description              : "My personal website where you can know me and get in touch with me."
+url                      : https://product-noob.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /my-blog
