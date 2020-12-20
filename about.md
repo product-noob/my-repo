@@ -1,36 +1,34 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-Sometimes you want numbered lists:
+---
+layout: page
+title: About Me
+permalink: /about/
+---
 
-1. One
-2. Two
-3. Three
 
-Sometimes you want bullet points:
 
-* Start a line with a star
-* Profit!
+<h4> I am Prince Jain </h4>
 
-Alternatively,
+I graduated from NIT Jaipur as an Electrical Engineer but the desire to be associated with technology led me to join Oracle as a software developer. There I helped build the first version of the [Data Governance Studio](http://www.oracle.com/us/industries/financial-services/ds-ofs-dgrr-3714726.pdf) product. I got a chance to hone my coding skills (which even helped my build this website)
 
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+I eventually (and thankfully quickly) realised I was intrigued more by other parts of the business and product than just the engineering and also due to some well placed FOMO, I took the plunge and joined a full time MBA program at FMS Delhi. 
+There I wanted to explore the various amazing career options presented before settling in one.
+Joined Citibank as a Finance Intern in their [Treasury & Trade Solutions](https://www.citibank.com/tts]department) department. There I got a chance to work with so-and-so's of the banking world. Figured finance is not for me.
+I also tried my hands in a lot of corporate competitions during my MBA tenure, highlight being getting a chance to present my idea on National Television and winning 5-lacs in  Reckitt Benckiser's Case Competition.
 
-If you want to embed images, this is how you do it:
+Thankfully I circled back on technology and chose Product Management as the choice of career and joined Paytm as a Product Manager post graduation and have been working on the "Paytm Mini Apps Store" since then.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-# Structured documents
+I have worked on as a software developer, tried my hands in Finance, Marketing, Strategy and now the good-bad and ugly (mostly good!) of Product, and thankfully thoroughly enjoying the stuff I do on a day-to-day basis.
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+ **I have had the chance to present my ideas at two large public forums uptil now :**
 
-### This is a third-tier heading
+<div class="smalltext" markdown="1">
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+1. [Paytm Mini Apps Store Conference](https://www.youtube.com/watch?v=nuK7Ct59Vyk&t=3161s)(Presenting Product Capabilites I built for the Mini App Store)
 
-If you'd like to quote someone, use the > character before the line:
+1. [RB Global Case Challenge](https://www.youtube.com/watch?v=180lua2YSTI&t=502s) (Presenting new Product Launch Idea for RB's annual challenge broadcasted nationally on NDTV )
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+</div>
 
-[Back to HomePage](index.md)
+## Reach me at
+
+If you read this long, maybe you can may want to connect with me on [LinkedIn](https://in.linkedin.com/in/princejain17)
